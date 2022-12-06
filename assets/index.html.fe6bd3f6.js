@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"","lang":"en-US","frontmatter":{"next":"getting-started.md","sidebar":false,"editLink":false,"lastUpdated":false,"footer":"Copyright \xA9 2022 Needle Tools GmbH"},"excerpt":"","headers":[],"git":{},"filePathRelative":"index.md"}');export{e as data};

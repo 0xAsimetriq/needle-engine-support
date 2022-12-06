@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-bb6009aa","path":"/modules.html","title":"Modules and Packages","lang":"en-US","frontmatter":{"title":"Modules and Packages"},"excerpt":"","headers":[],"git":{},"filePathRelative":"modules.md"}');export{e as data};

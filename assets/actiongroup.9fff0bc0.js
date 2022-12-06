@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as s,g as _}from"./app.8b6d0242.js";const n={},c={class:"actiongroup"};function a(e,r,d,p,u,i){return t(),s("div",c,[_(e.$slots,"default",{},void 0,!0)])}const f=o(n,[["render",a],["__scopeId","data-v-367d769b"],["__file","actiongroup.vue"]]);export{f as default};

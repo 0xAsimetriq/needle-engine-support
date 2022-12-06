@@ -1,0 +1,1 @@
+import{_ as s,o as c,c as a}from"./app.8b6d0242.js";const r={props:{src:String}},t=["src"];function _(o,n,e,l,p,i){return c(),a("iframe",{src:e.src,allow:"xr; xr-spatial-tracking; camera; microphone; fullscreen;display-capture"},null,8,t)}const m=s(r,[["render",_],["__scopeId","data-v-e881153b"],["__file","sample.vue"]]);export{m as default};

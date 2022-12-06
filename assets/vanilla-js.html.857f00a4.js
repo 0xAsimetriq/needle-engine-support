@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-7acec8c5","path":"/vanilla-js.html","title":"Vanilla Javascript","lang":"en-US","frontmatter":{"title":"Vanilla Javascript"},"excerpt":"","headers":[{"level":3,"title":"Basic html","slug":"basic-html","link":"#basic-html","children":[]}],"git":{},"filePathRelative":"vanilla-js.md"}');export{a as data};
